@@ -1,0 +1,78 @@
+/*******w******** 
+    
+    Name: Shiqi Yu
+    Date: 26 January 2025
+    Description: Server-Side User Input Validation
+
+****************/
+
+@import url(http://fonts.googleapis.com/css?family=Carrois+Gothic);
+
+body
+{
+	margin:10px auto;
+	width:700px;
+	font-family: 'Carrois Gothic';
+	border-radius: 12px;
+}
+
+h2
+{
+	font-size: 16px;
+	padding: 2px;
+}
+
+h1
+{
+	font-size:24px;
+	font-weight: bold;
+	padding: 2px;
+}
+
+table
+{
+	font-size:14px;
+	border:2px solid #000;
+	width:580px;
+	margin:0px auto 1em auto;
+	border-radius: 10px;
+}
+
+td
+{
+	border: 1px solid #000;
+	padding: 2px;
+	margin: 3px;
+}
+
+#summary
+{
+	margin:10px auto;
+	width:650px;
+}
+
+.alignright
+{
+	text-align:right;
+}
+
+
+{
+	font-weight: bold;
+}
+
+.invoice
+{
+	border:#000 solid 2px;
+	padding:5px;
+	width:660px;
+	margin:0px auto 0px;
+	color:#000;
+	border-radius: 10px;
+	padding-bottom: 25px;
+}
+
+.tableH
+{
+	font-size: 20px;
+}
